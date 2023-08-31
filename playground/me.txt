@@ -1,0 +1,5 @@
+{{#user}}
+Name: Aaryan Bansal
+Skills: Python, HTML, MySQL, Requests, Scikit Learn, OpenCV
+Email: test@gmail.com
+{{/user}}
